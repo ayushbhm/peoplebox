@@ -2,7 +2,7 @@
 FLASK backend to recommend jobs based on input
 ## Table of Contents
 
-- [Features](#features)
+
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
